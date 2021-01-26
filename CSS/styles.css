@@ -1,0 +1,212 @@
+body {
+  margin: 0;
+  background-color: #ecf2f8;
+  font-family: serif;
+  font-size: 13px;
+}
+
+.big {
+  background-color: #ecf2f8;
+  margin: 100px;
+}
+
+h5 {
+  color: #FFFFFFFF;
+  font-size: 10px;
+  position: relative;
+  top: 20px;
+}
+
+h3 {
+  color: #FFFFFFFF;
+}
+
+h6 {
+  color: #CDCDCD;
+  font-size: 8px;
+}
+
+.cliff {
+  color: #CDCDCD;
+  position: absolute;
+  top: 105px;
+  margin-right: 30px;
+}
+
+.uno {
+  height: 200px;
+  width: 400px;
+  background-color: #7d54c9;
+  border-radius: 3%;
+  position: relative;
+  left: 180px;
+  top: 195px;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+.unouno {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  text-align: left;
+  margin: 0 25px 0 25px;
+}
+
+.duedue {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  text-align: left;
+  margin: 0 30px 0 20px;
+}
+
+.walt {
+  color: #CDCDCD;
+  position: absolute;
+  top: 105px;
+  margin-right: 30px;
+}
+
+.abra {
+  color: #CDCDCD;
+  position: absolute;
+  top: 110px;
+  margin-right: 30px;
+}
+
+.daniel-clifford {
+  border-radius: 50%;
+  width: 6%;
+  margin-top: 20px;
+  margin-left: 20px;
+  float: left;
+  margin-right: 10px;
+}
+
+.tretre {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  text-align: left;
+  margin: 0 30px 0 20px;
+}
+
+.kiranomecolor {
+  color: #19212e;
+}
+
+.kiracolor {
+  color: #48556a;
+}
+
+.kir {
+  color: #19212e;
+}
+
+.ki {
+  color: #48556a;
+}
+
+.due {
+  height: 200px;
+  width: 200px;
+  background-color: #48556a;
+  border-radius: 3px;
+  position: relative;
+  left: 600px;
+  bottom: 20px;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+.jonathan-walters {
+  border-radius: 50%;
+  width: 12%;
+  margin-top: 20px;
+  margin-left: 20px;
+  float: left;
+  margin-right: 10px;
+}
+
+.tre {
+  height: 200px;
+  width: 400px;
+  background-color: #19212e;
+  border-radius: 3%;
+  position: relative;
+  bottom: 20px;
+  left: 400px;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+.patrick-abrams {
+  border-radius: 50%;
+  width: 6%;
+  margin-top: 20px;
+  margin-left: 20px;
+  float: left;
+  margin-right: 10px;
+}
+
+.quattro {
+  height: 420px;
+  width: 200px;
+  background-color: #ffffff;
+  border-radius: 3px;
+  position: relative;
+  left: 820px;
+  bottom: 455px;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+.quattroquattro {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  text-align: left;
+  margin-left: 20px;
+  margin-right: 30px;
+}
+
+.kira-whittle {
+  border-radius: 50%;
+  width: 12%;
+  margin-top: 20px;
+  margin-left: 20px;
+  float: left;
+  margin-right: 10px;
+}
+
+.cinque {
+  height: 200px;
+  width: 200px;
+  background-color: #ffffff;
+  border-radius: 3px;
+  position: relative;
+  bottom: 673px;
+  left: 180px;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+.cinquecinque {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  text-align: left;
+  margin-left: 20px;
+  margin-right: 30px;
+}
+
+.jeacolor {
+  color: #19212e;
+}
+
+.jeacol {
+  color: #48556a;
+}
+
+.jeatit {
+  color: #19212e;
+}
+
+.je {
+  color: #48556a;
+}
+
+.jeannette-harmon {
+  border-radius: 50%;
+  width: 12%;
+  margin-top: 20px;
+  margin-left: 20px;
+  float: left;
+  margin-right: 10px;
+}
